@@ -14,7 +14,7 @@
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-right",
-                "no_follow": true
+                "no_follow": false
             },
             {
                 "label": "Features",
