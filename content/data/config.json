@@ -12,7 +12,8 @@
                 "label": "Home",
                 "url": "https://graciadentalcare.com",
                 "style": "link",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "envelope"
             },
             {
                 "label": "Features",
