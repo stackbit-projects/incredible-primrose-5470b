@@ -26,7 +26,7 @@ sections:
           dan anda bisa reschedule, early book, ataupun late book sesuai dengan
           jadwal dokter kami.
         actions:
-          - label: Learn More
+          - label: Click disini untuk coba booking appointment
             url: /features
             style: secondary
             has_icon: true
