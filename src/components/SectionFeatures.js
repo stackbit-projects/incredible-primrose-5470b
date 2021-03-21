@@ -18,6 +18,9 @@ export default class SectionFeatures extends React.Component {
                   {htmlToReact(_.get(section, 'subtitle', null))}
                 </p>
                 )}
+                <p className="block-subtitle">
+                  {htmlToReact(_.get(section, 'subtitle', null))}
+                </p>
               </div>
               {_.get(section, 'features', null) && (
               <div className="inner">
