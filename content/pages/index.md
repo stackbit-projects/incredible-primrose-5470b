@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/gracia dental care.jpg
-    image_alt: App preview
+    image_alt: Our clinic today
     title: Gracia Dental Care
     content: "Founded by Dr. Erwin Siagian in 1988, Gracia Dental Care is dedicated to providing\_superior and affordable dental care for everyone. Using state of the art dental equipment, our goal is to provide aesthetically exceptional, confidence boosting, Dental health.\n\n​\n\nAs a Christ centered Dental clinic, we deliver to each of our patients a welcoming, personalized and gentle experience. By God’s grace, Gracia Dental Care is one of the first establishments to introduce Dental Implants in Jakarta, Indonesia, driven by our pledge to excellence, integrity, and quality dental care through the diverse services we offer.\n"
     actions:
