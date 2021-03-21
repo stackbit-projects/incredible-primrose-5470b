@@ -17,7 +17,7 @@ sections:
     title: Why Choose us?
     subtitle: 'Kenapa memilih Gracia Dental Care? '
     features:
-      - title: The Best Feature of Your Services
+      - title: Easy Online Appointment Booking
         image: images/online booking gracia dental.png
         image_alt: App preview on a phone and tablet
         content: >-
