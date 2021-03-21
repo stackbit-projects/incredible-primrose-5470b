@@ -2,7 +2,7 @@
     "title": "Gracia Dental Care",
     "path_prefix": "/",
     "base_font": "nunito-sans",
-    "palette": "blue",
+    "palette": "cyan",
     "header": {
         "logo_img": "images/gracia-dental-logo--Phone-.png",
         "logo_img_alt": "Logo",
