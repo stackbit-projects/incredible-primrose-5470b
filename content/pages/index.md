@@ -15,7 +15,7 @@ sections:
     type: section_features
     background: gray
     title: Why Choose us?
-    subtitle: 'Kenapa memilih Gracia Dental Care untuk '
+    subtitle: 'Kenapa memilih Gracia Dental Care? '
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
