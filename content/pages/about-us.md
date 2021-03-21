@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Why Choose us?
+    title: About Us
     subtitle: >-
       Seluruh Dokter kami berkomitment untuk melayani anda dengan qualitas
       tertinggi serti memiliki sertifikat dental yang terakui di Indonesia.
