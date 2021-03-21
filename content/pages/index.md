@@ -41,7 +41,7 @@ sections:
           dijadwalkan untuk konsultasi dengan dokter. Dan anda juga dapat
           informasi up-to-date. 
         actions:
-          - url: /features
+          - url: 'https://graciadentalcare.com'
             style: secondary
             has_icon: true
             icon: arrow-right
