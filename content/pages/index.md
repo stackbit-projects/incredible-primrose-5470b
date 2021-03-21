@@ -40,8 +40,7 @@ sections:
           sehingga anda bisa langsung berkomunikasi dengan Staff ataupun bisa
           dijadwalkan untuk konsultasi dengan dokter 
         actions:
-          - label: Learn More
-            url: /features
+          - url: /features
             style: secondary
             has_icon: true
             icon: arrow-right
