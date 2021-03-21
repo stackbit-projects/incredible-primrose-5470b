@@ -33,7 +33,8 @@
             },
             {
                 "url": "/signup",
-                "style": "primary"
+                "style": "primary",
+                "label": "BOOK APPOINTMENT"
             }
         ]
     },
