@@ -38,7 +38,8 @@ sections:
         content: >
           Di Gracia Dental Care anda bisa mendapatkan pelayanan personal
           sehingga anda bisa langsung berkomunikasi dengan Staff ataupun bisa
-          dijadwalkan untuk konsultasi dengan dokter 
+          dijadwalkan untuk konsultasi dengan dokter. Dan anda juga dapat
+          informasi up-to-date. 
         actions:
           - url: /features
             style: secondary
