@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/gracia dental care.jpg
     image_alt: App preview
     title: Gracia Dental Care
     content: >-
