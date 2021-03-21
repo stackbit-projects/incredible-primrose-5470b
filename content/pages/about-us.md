@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: features
     type: section_features
-    background: gray
+    background: white
     title: About Us
     features:
       - title: Easy Online Appointment Booking
