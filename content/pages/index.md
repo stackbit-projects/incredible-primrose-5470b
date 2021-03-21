@@ -15,7 +15,9 @@ sections:
     type: section_features
     background: gray
     title: Why Choose us?
-    subtitle: 'Kenapa memilih Gracia Dental Care? '
+    subtitle: >-
+      Seluruh Dokter kami berkomitment untuk melayani anda dengan qualitas
+      tertinggi serti memiliki sertifikat dental yang terakui di Indonesia.
     features:
       - title: Easy Online Appointment Booking
         image: images/online booking gracia dental.png
