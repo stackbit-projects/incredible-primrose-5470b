@@ -20,10 +20,11 @@ sections:
       - title: Easy Online Appointment Booking
         image: images/online booking gracia dental.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Klinik kami miliki fitur online e-booking appointment sehingga
+          appointment anda akan langsung masuk ke sistem online check point kami
+          dan anda bisa reschedule, early book, ataupun late book sesuai dengan
+          jadwal dokter kami.
         actions:
           - label: Learn More
             url: /features
